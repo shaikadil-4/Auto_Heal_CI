@@ -343,12 +343,12 @@ export default function App() {
       </div>
 
       <div className="footer">
-        <a href="https://github.com/KhadarBasha2006/Auto_Heal_CI" target="_blank" rel="noreferrer">
+        <a href="https://github.com/shaikadil-4/Auto_Heal_CI" target="_blank" rel="noreferrer">
           Autonomous CI/CD Healing Agent
         </a>
         <span>
-          <a href="https://github.com/KhadarBasha2006" target="_blank" rel="noreferrer">
-            @KhadarBasha2006
+          <a href="https://github.com/shaikadil-4" target="_blank" rel="noreferrer">
+            @Sk_Adil
           </a>
         </span>
       </div>
